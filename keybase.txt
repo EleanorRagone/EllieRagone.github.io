@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/eragone
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://paramedoc.org
+  * I am eragone (https://keybase.io/eragone) on keybase.
+  * I have a public key ASCypbYB-EVrjDwua4pDyfYS48J75WmmpKRj1dny9SdiYAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b2a5b601f8456b8c3c2e6b8a43c9f612e3c27be569a6a4a463d5d9f2f52762600a",
+      "host": "keybase.io",
+      "kid": "0120b2a5b601f8456b8c3c2e6b8a43c9f612e3c27be569a6a4a463d5d9f2f52762600a",
+      "uid": "7d1da0ca8ca6e89d2201f01e7ee06f19",
+      "username": "eragone"
+    },
+    "merkle_root": {
+      "ctime": 1554840729,
+      "hash": "6771a0f9ad9d1116a9629bd1dcae5a284119dd658940e893218a4c17625aec0dd4bff4ff50ca87fe76ebf2df7415f823132f93b5529943626b6c3539d783e541",
+      "hash_meta": "50f2ec3ff4d0c6f6f848fe59aec6e062c265ddf5675443f705c7bde697ec7db6",
+      "seqno": 5129107
+    },
+    "service": {
+      "entropy": "dR/OVFPawFUtTmzinjFKT1Rx",
+      "hostname": "paramedoc.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1554840738,
+  "expire_in": 504576000,
+  "prev": "edc85813c2724cf0d97cd176915427b3b6ff98cf96476b56fe2774797e88f093",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgsqW2AfhFa4w8LmuKQ8n2EuPCe+VppqSkY9XZ8vUnYmAKp3BheWxvYWTESpcCBsQg7chYE8JyTPDZfNF2kVQns7b/mM+WR2tW/id0eX6I8JPEIDb1W9/oNo0EXGbBZ6tVwDNARRfUIBVmFT7l5dNCnyTbAgHCo3NpZ8RANt5U+c1PnAeB5AcaL1LWuBjWa2Z3KoQpnz8wy96OjXz3QLjeglSwnJYsgMJ3wb1IqTySBf22ieni4TLk3TFdC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDU3dVLZWwg3JXRhZYE7/SWr5n6EN6fXz0HPWN1dq6t4o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/eragone
+
+==================================================================
